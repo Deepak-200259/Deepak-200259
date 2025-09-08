@@ -1,8 +1,11 @@
 <h2 align="center">Hi there, I'm Deepak Saini! 👋</h2>
 <h4 align="center">🌟 Three.Js Developer | React Three Fiber | Cocos Creator | Pixi.Js | Construct3</h4>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B140&center=true&vCenter=true&width=500&lines=ThreeJs+Developer;React+Three+Fiber+%7C+Construct3+%7C+Cocos+Creator+%7C+Pixi.Js;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+3D+Experiences+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B140&center=true&width=900&height=90&lines=Three.js+Developer;React+Three+Fiber+%7C+Construct+3+%7C+Cocos+Creator+%7C+Pixi.js;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+3D+Experiences+together!"
+   alt="Typing SVG" />
 </p>
+
+
 ---
 
 ## 🚀 About Me
@@ -13,7 +16,6 @@ I'm a passionate **Three.Js Developer** and **React Three Fiber Enthusiast** wit
 - **Metamask, CannonJs, RapierJs and REST APIs**
 - **React Three Fiber, Netlify, and Jenkins (CI-CD)**
 
----
 ---
 
 ## 🧠 Skills & Expertise
@@ -44,13 +46,10 @@ I'm a passionate **Three.Js Developer** and **React Three Fiber Enthusiast** wit
 ### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 💻 IDEs & Version Control
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
