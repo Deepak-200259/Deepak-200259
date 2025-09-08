@@ -4,13 +4,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B140&center=true&vCenter=true&width=500&lines=ThreeJs+Developer;React+Three+Fiber+%7C+Construct3+%7C+Cocos+Creator+%7C+Pixi.Js;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+3D+Experiences+together!" alt="Typing SVG" />
 </p>
 ---
+
 ## 🚀 About Me
+
 I'm a passionate **Three.Js Developer** and **React Three Fiber Enthusiast** with hands-on experience building efficient, scalable, and intuitive 3D experiences using:
+
 - **Three.Js,  Construct3, Cocos Creator, Pixi.Js**
 - **Metamask, CannonJs, RapierJs and REST APIs**
 - **React Three Fiber, Netlify, and Jenkins (CI-CD)**
+
 ---
 ---
+
 ## 🧠 Skills & Expertise
 
 ### 👨‍💻 Programming Languages
